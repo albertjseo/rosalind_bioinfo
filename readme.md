@@ -1,4 +1,4 @@
-![img.png](img.png)
+![img.png](static/img.png)
 
 >Rosalind is a platform for learning bioinformatics and programming through problem solving.
 > 

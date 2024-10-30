@@ -19,5 +19,6 @@
 >
 > <img src="https://img.shields.io/badge/language-python-blue.svg" style="zoom:100%;" />
 Countinuation of ROSALIND problems:
-* UNDER CONSTRUCTION
+* [ [Rabbits and Recurrence](https://rosalind.info/problems/fib/) ] [ [code](https://github.com/albertjseo/rosalind_bioinfo/blob/main/code/rabbits_and_recurrence.py) ]
+* In Progress
 

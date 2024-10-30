@@ -6,7 +6,7 @@ def rabbit_recurrence(n, k):
     for months in range(1, n - 1):
         child, parent = parent, parent + (child * k)
     return parent
-    # test print
 
 
+# test print
 print(rabbit_recurrence(5, 3))
